@@ -246,7 +246,7 @@ The following steps show how you can use npm to download a package, save it into
    Example app listening on port 3000
    ```
 
-6. Navigate to the URL `http://127.0.0.1:3000/`.
+6. Navigate to the URL `http://localhost:3000/`.
    If everything is working, the browser should display the string "Hello World!".
 
 ### Development dependencies
